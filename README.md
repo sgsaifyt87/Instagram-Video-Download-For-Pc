@@ -69,3 +69,102 @@ and download **`ZenithInstaDL_Setup.exe`**
 ---
 
 ## 🎯 How to Use
+Copy any Instagram Reel / Post / Video URL
+
+The URL auto-pastes into the input box
+
+Click Fetch
+
+Click Download Video or Download Thumbnail
+
+File saved to your Downloads folder
+
+
+---
+
+## 🎨 UI Design
+
+Theme → Cyber Dark #0A0E1A
+Accent → Neon Blue #3b82f6
+Glow → Cyan #22d3ee
+Purple → Violet #8B5CF6
+Text → Soft White #e5e7eb
+
+
+> Live animated particles, aurora background bands,
+> custom-painted glowing buttons, animated input fields —
+> every pixel is hand-crafted with C++ QPainter.
+
+---
+
+## 📋 System Requirements
+
+| | Requirement |
+|---|---|
+| 🖥️ OS | Windows 10 / 11 (64-bit) |
+| 💾 Storage | ~150 MB |
+| 🌐 Network | Active internet connection |
+| 🧠 RAM | 50 MB minimum |
+
+---
+
+## ❓ FAQ
+
+**Q: Is it safe?**
+> Yes. The installer only contains the app and Qt runtime DLLs.
+> No malware, no telemetry, no data collection.
+
+**Q: Does it need internet?**
+> Yes — it fetches download links in real time.
+
+**Q: Why does Windows Defender flag it?**
+> False positive common with unsigned Qt apps.
+> Click **"More info"** → **"Run anyway"** to proceed.
+
+**Q: Works on Windows 7 / 8?**
+> No. Windows 10 64-bit minimum required.
+
+**Q: Can I download private posts?**
+> No. Only public Instagram posts and reels are supported.
+
+---
+
+## 🗺️ Roadmap
+
+- [ ] 🖼️ In-app thumbnail preview panel
+- [ ] 📜 Download history with re-download option
+- [ ] 🎞️ Batch download multiple URLs at once
+- [ ] 🌙 Light theme toggle
+- [ ] 🔔 Desktop notification on download complete
+- [ ] 📦 Auto-updater
+
+---
+
+## ⚠️ Disclaimer
+
+> This tool is made for **personal and educational use only.**
+> Downloading copyrighted content without permission may violate
+> Instagram's Terms of Service. Use responsibly.
+> The developer is **not responsible** for any misuse.
+
+---
+
+## 👨‍💻 Developer
+
+<div align="center">
+
+**Made with ❤️ by SAIF**
+
+[![GitHub](https://img.shields.io/badge/GitHub-sgsaifyt87-181717?style=for-the-badge&logo=github)](https://github.com/sgsaifyt87)
+
+[![Repo](https://img.shields.io/badge/Repository-Instagram--Video--Download--For--Pc-3b82f6?style=for-the-badge&logo=github)](https://github.com/sgsaifyt87/Instagram-Video-Download-For-Pc)
+
+<br/>
+
+### 🇵🇸 FREE PALESTINE — Stand for Justice
+
+<br/>
+
+*If this tool helped you — drop a ⭐ star, it means everything!*
+
+</div>
